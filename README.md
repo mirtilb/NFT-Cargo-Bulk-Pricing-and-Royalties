@@ -1,6 +1,11 @@
 # NFT-Cargo-Bulk-Pricing-and-Royalties
-A solution for CARGO.BUILD to set price and royalties from a CSV file
 
+Goal        A solution for CARGO.BUILD to set price and royalties from a CSV file
+Project			No More TV (NMTV)</br>
+Developer		syed_aj</br>
+			      https://github.com/SyedAzeemJaved</br>
+			      https://www.fiverr.com/syed_aj</br>
+      
 <strong>NOTES</strong></br>
 - be sure all libs are ready to use the terminal commands (requirement.txt)
 - CSV located in assets/data.csv
